@@ -37,7 +37,7 @@ Link da produção: https://jogo-da-velha-drab-delta.vercel.app/
 
 1. **clone** o repositório:
 ````bash
-git clone https://github.com/Lbonan/Jogo_da_velha.git
+git clone https://github.com/seu-usuario/Jogo_da_velha.git
 ````
 2. Abra o arquivo ``index.html`` no navegador.
 3. Insira os nomes dos jogadores e clique em **Começar!** para iniciar a partida.
